@@ -1,0 +1,28 @@
+p {
+    color: azure;
+}
+
+h1 {
+    color: azure;
+}
+
+body {
+    background-color: rgb(32, 32, 32);
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.header-big {
+    font-size: 45px;
+    font-style: oblique;
+    font-weight: bold;
+    font-family: Tahoma ;
+    text-align: center; 
+    text-shadow: 5px 2px rgb(99, 40, 155);
+
+}
+
